@@ -1,0 +1,5 @@
+<view>
+	{{msg}}
+</view>
+
+<view>{{count}}</view>

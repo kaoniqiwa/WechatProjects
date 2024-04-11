@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "my-color": "/components/my-color/my-color"
+  }
+}

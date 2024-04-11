@@ -1,0 +1,3 @@
+<view>
+	<my-color color-offset="{{colorOffset}}"></my-color>
+</view>

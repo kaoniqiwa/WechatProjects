@@ -1,0 +1,10 @@
+<view>
+	<view class="colorBox" style="background-color: rgb({{fullColor}});">
+		{{fullColor}}
+	</view>
+	<view>
+		<button size="mini" type="default" bind:tap="handleTapR">R</button>
+		<button size="mini" type="primary" bind:tap="handleTapG">G</button>
+		<button size="mini" type="warn" bind:tap="handleTapB">B</button>
+	</view>
+</view>
